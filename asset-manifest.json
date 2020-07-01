@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Card-Template/static/css/main.b3e39221.chunk.css",
+    "main.js": "/React-Card-Template/static/js/main.5d172859.chunk.js",
+    "main.js.map": "/React-Card-Template/static/js/main.5d172859.chunk.js.map",
+    "runtime-main.js": "/React-Card-Template/static/js/runtime-main.21b07ea5.js",
+    "runtime-main.js.map": "/React-Card-Template/static/js/runtime-main.21b07ea5.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/React-Card-Template/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c53b7278.chunk.js": "/React-Card-Template/static/js/2.c53b7278.chunk.js",
+    "static/js/2.c53b7278.chunk.js.map": "/React-Card-Template/static/js/2.c53b7278.chunk.js.map",
+    "index.html": "/React-Card-Template/index.html",
+    "precache-manifest.800e0961c8a9530b1800b3d744f608ce.js": "/React-Card-Template/precache-manifest.800e0961c8a9530b1800b3d744f608ce.js",
+    "service-worker.js": "/React-Card-Template/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/React-Card-Template/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b3e39221.chunk.css.map": "/React-Card-Template/static/css/main.b3e39221.chunk.css.map",
+    "static/js/2.c53b7278.chunk.js.LICENSE.txt": "/React-Card-Template/static/js/2.c53b7278.chunk.js.LICENSE.txt",
+    "static/media/Capital_Punishment_1998.jpg": "/React-Card-Template/static/media/Capital_Punishment_1998.11e20f21.jpg",
+    "static/media/LaurynHillTheMiseducationofLaurynHillalbumcover.jpg": "/React-Card-Template/static/media/LaurynHillTheMiseducationofLaurynHillalbumcover.020b107a.jpg",
+    "static/media/MosDef&TalibKweliBlackStar.jpg": "/React-Card-Template/static/media/MosDef&TalibKweliBlackStar.228bbd76.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b07ea5.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c53b7278.chunk.js",
+    "static/css/main.b3e39221.chunk.css",
+    "static/js/main.5d172859.chunk.js"
+  ]
+}
