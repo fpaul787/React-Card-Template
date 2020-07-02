@@ -1,6 +1,5 @@
 import React from "react";
 import "./card-style.css";
-// import img1 from "../assets/Capital_Punishment_1998.jpg";
 
 const Card = (props) => {
   return (
