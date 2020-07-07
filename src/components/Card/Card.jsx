@@ -13,7 +13,7 @@ const Card = (props) => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad,
           voluptatum!
         </p>
-        <p className="btn btn-outline-success">Go anywhere</p>
+        <p className="btn btn-outline-success">Album Info</p>
       </div>
     </div>
   );
